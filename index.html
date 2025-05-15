@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Passenger Counter</title>
+    <link rel="stylesheet" href="index.css">
+</head>
+<body>
+    <blockquote style="font-style: italic; color: #555; ">
+    "When you've worked on something for so long, you will never know you're done"
+</blockquote>
+    <h1>Number of passengers</h1>
+    <h2 id="display-count">0</h2>
+
+    <button id="btn-increase" onclick="increase()">Add Passengers</button>
+    <button id="btn-save" onclick="save()">Save</button>
+    <button id="btn-reset" onclick="reset()">Reset</button>
+
+    <p id="history">History</p>
+
+    <audio id="click-sound" src="https://www.soundjay.com/button/beep-07.wav" preload="auto"></audio>
+    <script src="index.js"></script>
+</body>
+</html>
