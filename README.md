@@ -1,6 +1,6 @@
 # 🚍 Passenger Counter App
 
-A minimalist web app that lets you increment, decrement, and reset a passenger count. Built with clean HTML, CSS, and JavaScript — great for logic testing and UI behavior tracking.
+A minimalist web app that lets you increment, decrement, and reset a passenger count. Built with clean HTML, CSS, and JavaScript - great for logic testing and UI behavior tracking.
 
 ---
 
