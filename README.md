@@ -17,7 +17,7 @@ A minimalist web app that lets you increment, decrement, and reset a passenger c
 
 ## 📸 Preview
 
-![App Screenshot](./screenshot.png) <!-- Add a real screenshot file later -->
+![image](https://github.com/user-attachments/assets/1680271b-9d74-4c9a-924b-0e61f6c3a9cb)
 
 ---
 
